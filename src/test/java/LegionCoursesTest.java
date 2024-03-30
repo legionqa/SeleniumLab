@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 import org.legion.pages.HomePage;
-import utilities.BaseTest;
+import org.legion.utilities.BaseTest;
 
 public class LegionCoursesTest extends BaseTest {
 private static final Logger logger = LogManager.getLogger(LegionCoursesTest.class);

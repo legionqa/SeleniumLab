@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
-import utilities.PropertiesUtil;
+import org.legion.utilities.PropertiesUtil;
 
 public class HomePage extends BasePage {
     //*********************************Constructor***********************************************

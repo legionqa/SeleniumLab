@@ -1,4 +1,4 @@
-package utilities;
+package org.legion.utilities;
 
 import io.qameta.allure.Allure;
 import org.junit.jupiter.api.extension.AfterTestExecutionCallback;

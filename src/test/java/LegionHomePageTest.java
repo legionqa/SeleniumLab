@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import org.legion.pages.HomePage;
-import utilities.BaseTest;
+import org.legion.utilities.BaseTest;
 
 public class LegionHomePageTest extends BaseTest {
 

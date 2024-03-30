@@ -1,4 +1,4 @@
-package utilities;
+package org.legion.utilities;
 
 import java.io.IOException;
 import java.util.Properties;
